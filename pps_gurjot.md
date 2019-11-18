@@ -4,7 +4,7 @@
 
 ##My Details:-
 **Name-** Gurjot Singh
-**CRN-** 1915040
+**CRN-** 1915025
 **Branch-** Cse
 **Year-**  1st
 **Submitted to-** prof. Hardeep Singh Kang
@@ -243,7 +243,7 @@ Enter the number upto which you wanna see the table
 >Thursday
 ####12. Arithmetic operations using switch case
 	#include<stdio.h>
-	
+	 
 	void main()
 	{
 	    int a,b;
